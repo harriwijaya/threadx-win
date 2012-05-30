@@ -1,3 +1,0 @@
-test1
-add this so that this file will be in "staged" and "unstaged" state at the 'git status' as the modification is after 'git add'.
-this is third change, for 'git diff', but will not be 'git add'-ed.
